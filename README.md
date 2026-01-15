@@ -21,5 +21,8 @@ pip install -e .
 
 ```
 
+## Example
+
+Currently, this tool is under construction as I intend to unify all codes so that they all use python instead of R. If you want to try it now, feel free to use the ipynb file in the "examples" folder.
 
 
