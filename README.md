@@ -23,6 +23,7 @@ pip install -e .
 
 ## Example
 
-Currently, this tool is under construction as I intend to unify all codes so that they all use python instead of R. If you want to try it now, feel free to use the ipynb file in the "examples" folder.
+Currently, this tool is under construction as I intend to unify all codes so they can all use Python instead of R. If you want to try it now, we provide basic functions for this and feel free to use the ipynb file in the "examples" folder.
+
 
 
