@@ -9,7 +9,7 @@ and predicting missing modalities, with a focus on single-cell multi-omics
 Clone the repository and install in editable mode:
 
 ```bash
-git clone https://github.com/sshen82/gleam.git
+git clone https://github.com/keleslab/gleam.git
 cd gleam
 conda create -n gleam python==3.13
 conda activate gleam
@@ -20,5 +20,6 @@ pip install pyg_lib==0.5.0 torch_scatter==2.1.2 torch_sparse==0.6.18 torch_clust
 pip install -e .
 
 ```
+
 
 
