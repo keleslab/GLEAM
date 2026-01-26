@@ -2,5 +2,6 @@ pandas>=1.5
 scipy>=1.9
 scikit-learn>=1.2
 scanpy==1.11.5
+cmake==4.2.1
 pyliger==0.2.4
 h5py
