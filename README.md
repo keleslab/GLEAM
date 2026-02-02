@@ -23,7 +23,14 @@ pip install -e .
 
 ## Example
 
-Currently, this tool is under construction as I intend to unify all codes so they can all use Python instead of R. If you want to try it now, we provide basic functions for this and feel free to use the ipynb file in the "examples" folder. The data (from Zhu et al. 2023) is in [google drive](https://drive.google.com/drive/folders/10ApZ0LiYMbN096YHIAloNvXt8jQgKR_s?usp=sharing), runRealData.ipynb is written to work on this data.
+Currently, this tool is under construction as I intend to unify all codes so they can all use Python instead of R. If you want to try it now, we provide basic functions for this and feel free to use the ipynb file in the "examples" folder. 
+
+The runSimulation.ipynb file is on example data.
+
+The data (from Zhu et al. 2023) is in [google drive](https://drive.google.com/drive/folders/10ApZ0LiYMbN096YHIAloNvXt8jQgKR_s?usp=sharing), runRealData.ipynb is written to work on this data.
+
+The runCP.ipynb is for conformal prediction, and it is currently under construction, as we currently just have a simple example here.
+
 
 
 
